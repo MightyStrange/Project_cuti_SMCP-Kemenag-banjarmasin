@@ -1,0 +1,22 @@
+{
+  "name": "SMCP-KEMENAG KOTA BANJARMASIN",
+  "short_name": "SMCP-KEMANAG KOTA BANJARMASIN",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "dist/img/images.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "dist/img/images.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    
+    
+  ]
+}
